@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "pro_thr_han"
+name = "crow-rust"
 version = "0.1.0"
 dependencies = [
  "windows",
